@@ -19,6 +19,9 @@ This project supports basic arithmetic, number system conversions (Binary, Octal
 ✅ **Backspace Function**
 - Easily remove the last input digit.
 
+✅ **On/Off Function**
+- Disable and enable buttons.  
+
 ✅ **Dark Mode Toggle**
 - Instantly switch between Light and Dark themes using [FlatLaf](https://www.formdev.com/flatlaf/).
 
@@ -82,7 +85,7 @@ The GUI Calculator should now appear.
 Use the **Dark Mode** toggle button to switch between Light and Dark themes 🌙☀️.
 
 ---
-<img width="576" height="604" alt="Screen Shot 2025-10-14 at 1 11 11 PM" src="https://github.com/user-attachments/assets/55d54a62-d4fe-4ca3-80b9-87990aa755f5" /> 
-<img width="576" height="604" alt="Screen Shot 2025-10-14 at 1 15 43 PM" src="https://github.com/user-attachments/assets/ac517274-cc3a-4419-809c-a29a1e732bf4" />
 
+<img width="576" height="604" alt="Screen Shot 2025-10-24 at 7 52 07 PM" src="https://github.com/user-attachments/assets/db19a51e-84d4-479c-a6c9-19b9dd913f57" />
+<img width="576" height="604" alt="Screen Shot 2025-10-24 at 7 52 19 PM" src="https://github.com/user-attachments/assets/e72e47e6-96bb-480a-adab-c2bcb8f1edad" />
 
